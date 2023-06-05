@@ -1,7 +1,7 @@
 version: 2.1
 
 description: >
-  Sample orb description
+  Create an orb that uses config policies to lock down 3rd party orbs. 
 # What will your orb allow users to accomplish?
 # Descriptions should be short, simple, and informative.
 
