@@ -22,7 +22,7 @@ release-filters: &release-filters
 jobs:
   # Create jobs to test the commands of your orbs.
   # You may want to add additional validation steps to ensure the commands are working as expected.
-  command-test:
+  orb-config:
     docker:
       - image: cimg/base:current
     steps:
